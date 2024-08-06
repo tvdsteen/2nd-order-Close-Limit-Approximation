@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software cite it as below."
+authors: 
+- family-names: "van der Steen"
+  given-nemas: "Tom"
+- family-names: "Bonga"
+  given-names: "Béatrice"
+title: "The second order Close Limit Approximation"
+version: 1.0.0
+date-released: 2024-08-06
+url: "https://github.com/tvdsteen/2nd-order-Close-Limit-Approximation"
